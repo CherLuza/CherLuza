@@ -8,6 +8,17 @@
 - Tenho noções de Figma 
 - 😄 Pronomes: ela/dela
 
+
+### Hello, welcome to my Github profile 👋
+
+- 🔭 I am a Technology student looking to enter the Job Market as a Junior Frontend Developer
+- 🌱 I'm currently studying React.js and developing projects with this Framework
+- 👯 I accept collaborations on paid/unpaid projects to gain experience
+- ⚡I have experience in HTML, CSS, JavaScript, React.js, ReactHooks, componentization in React.js, Sass, Bootstrapp
+Use Git/Github as code versioning control and VSCode for editing
+- I have notions of Figma
+- 😄  Pronouns: she/her
+
 [![CherLuza's GitHub stats](https://github-readme-stats.vercel.app/api?username=cherluza&theme=cobalt&show_icons=true)](https://github.com/cherluza/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cherluza&layout=donut-vertical&theme=cobalt&show_icons=true)](https://github.com/cherluza/github-readme-stats)
 
