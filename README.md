@@ -16,10 +16,7 @@
   <img align="center" alt="vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
     <img align="center" alt="figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
   </div><br/> 
-  
-- Use Git/Github as code versioning control
-- I have notions of Figma
-- Pronouns: she/her
+  - Pronouns: she/her
 
 
 ### Olá, seja bem vindo(a) ao meu perfil Github 👋
