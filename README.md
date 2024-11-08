@@ -1,6 +1,6 @@
 ### Hello, welcome to my Github profile 👋
 
-- I am a Technology student looking to enter the Job Market as a Junior Frontend Developer
+- I am a Technology student looking to enter the Job Market as a Frontend Developer
 - I'm currently studying React.js and developing projects with this Framework
 - I accept collaborations on paid/unpaid projects to gain experience
 - I have experience in:
@@ -21,7 +21,7 @@
 
 ### Olá, seja bem vindo(a) ao meu perfil Github 👋
 
-- Sou estudante da área de Tecnologia buscando me inserir no Mercado de Trabalho como Desenvolvedora Frontend Júnior
+- Sou estudante da área de Tecnologia buscando me inserir no Mercado de Trabalho como Desenvolvedora Frontend
 - No momento estou estudando React.js e desenvolvendo projetos com este Framework
 - Aceito colaborações em projetos remunerados/não remunerados para adquirir experiência
 - Tenho experiência em HTML, CSS, JavaScript, React.js, ReactHooks, componentização no React.js, Sass, Bootstrapp
